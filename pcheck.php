@@ -7,7 +7,7 @@ $password = $_POST['password'];
 //Open a new connection to the MySQL server
 
 //include 'config.php';
-$mysqli = new mysqli('localhost', 'root', 'lanesra1886', 'baca_buku');
+$mysqli = new mysqli('localhost', 'root', 'lanesrA1886', 'baca_buku');
 
 
 //Output any connection error
